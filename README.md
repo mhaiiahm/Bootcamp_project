@@ -2,7 +2,7 @@
 Data science bootcamp with adToy
 We learn 10 sprints during 4 month program
 
-![Sprint 1-1](https://user-images.githubusercontent.com/123307926/214228623-53b3855b-5573-4e7b-9796-830719d2cf11.png)
+Sprint 01 Spreadsheet
 - Dynamic Query
 - Converting Date
 - ID Card Parser
